@@ -15,5 +15,10 @@
     },
     "optionalDependencies": {
         "@laravel/multiplex": "^0.4.1"
+    },
+    "dependencies": {
+        "@iconify-json/tabler": "^1.2.38",
+        "@iconify/tailwind4": "^1.2.3",
+        "flyonui": "^2.4.1"
     }
 }
