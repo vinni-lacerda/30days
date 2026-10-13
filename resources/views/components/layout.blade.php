@@ -41,6 +41,9 @@
                     Contact
                 </x-nav-link>
 
+                <x-nav-link href="{{ url('/jobs') }}" :active="request()->is('jobs')">
+                    Jobs
+                </x-nav-link>
             </div>
         </div>
 
