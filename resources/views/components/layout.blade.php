@@ -21,8 +21,7 @@
             <div>
 
                 <a href="{{ url('/') }}" class="text-2xl font-bold text-indigo-500">
-                    <img class="h-8 w-8" src="https://assets.laracasts.com/images/primary-logo-symbol.svg"
-                        alt="">
+                    <img class="h-8 w-8" src="{{ asset('images/logo-asset.png') }}" alt="">
                 </a>
             </div>
 
